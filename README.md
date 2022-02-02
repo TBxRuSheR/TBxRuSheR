@@ -1,6 +1,6 @@
 ### Hi there, I'm RuSheR 👋
 
-[![Website](https://img.shields.io/website?label=Contact&style=for-the-badge&url=https%3A%2F%2Ffb.com/ALFAMAS)](https://www.fb.com/masyasinarafat)
+[![Website](https://img.shields.io/website?label=Contact&style=for-the-badge&url=https%3A%2F%2Ffb.com/ALFAMAS)](https://discord.gg/6cBmfYqBFu)
 
 ## I'm a Gamer, Streamer & Developer !
 
