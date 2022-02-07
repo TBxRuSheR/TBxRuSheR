@@ -12,7 +12,7 @@
 ### Connect with me:
 
 <a href="https://www.youtube.com/channel/UC1yKVqjaBKPcr68CJrQ8pfw/featured" /><img align="left" alt="RuSheR | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<a href="https://discord.gg/6cBmfYqBFu"><img align="left" alt="RuSheR  | Discord" width="22px" src="https://cdn.discordapp.com/attachments/801797506739732500/938388119118561310/Discord-Logo.png" />
+<a href="https://discord.gg/6cBmfYqBFu"><img align="left" alt="RuSheR  | Discord" width="20px" src="https://cdn.discordapp.com/attachments/801797506739732500/938388119118561310/Discord-Logo.png" />
 
 <br />
 
