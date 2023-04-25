@@ -1,18 +1,19 @@
 ### Hi there, I'm RuSheR 👋
 
-[![Website](https://img.shields.io/website?label=Contact&style=for-the-badge&url=https%3A%2F%2Ffb.com/ALFAMAS)](https://discord.gg/6cBmfYqBFu)
+[![Website](https://img.shields.io/website?label=Contact&style=for-the-badge&url=https%3A%2F%2Ffb.com/ALFAMAS)](https://sites.google.com/view/rusher-fw/)
 
 ## I'm a Gamer, Streamer & Developer !
 
 
 - ⚡ I’m currently learning everything
 - 🥅 I try Contribute in Open Source Projects
-- 🌱 Fun fact: I love to Play RP!
+- 🌱 Fun fact: I love to Play GTAV RP!
 
 ### Connect with me:
 
-<a href="https://www.youtube.com/channel/UC1yKVqjaBKPcr68CJrQ8pfw/featured" /><img align="left" alt="RuSheR | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<a href="https://discord.gg/6cBmfYqBFu"><img align="left" alt="RuSheR  | Discord" width="20px" src="https://cdn.discordapp.com/attachments/801797506739732500/938388119118561310/Discord-Logo.png" />
+<a href="https://www.facebook.com/tanjim.rashid.3"><img align="left" alt="RuSheR | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.youtube.com/channel/UC1yKVqjaBKPcr68CJrQ8pfw" /><img align="left" alt="RuSheR | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.instagram.com/__.tanv.__/"><img align="left" alt="RuSheR  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
