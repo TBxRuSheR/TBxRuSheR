@@ -1,6 +1,6 @@
 ### Hi there, I'm RuSheR 👋
 
-[![Website](https://img.shields.io/website?label=Contact&style=for-the-badge&url=https%3A%2F%2Ffb.com/ALFAMAS)](https://sites.google.com/view/rusher-fw/)
+[![Website](https://img.shields.io/website?label=Contact&style=for-the-badge&url=https%3A%2F%2Ffb.com/ALFAMAS)](https://tanjim.freewebhostmost.com/)
 
 ## I'm a Gamer, Streamer & Developer !
 
