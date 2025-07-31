@@ -42,9 +42,6 @@
 - Psu: Acer 650w 
 - Monitor: Dahua 22 inche 100hz
 <br />
-<br />
-<br />
-
 
 ###
 
