@@ -31,9 +31,13 @@
 ![GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=TBxRuSheR&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub stats3](https://github-readme-streak-stats.herokuapp.com/?user=TBxRuSheR&theme=react&hide_border=false)
 
-### 🎧 Spotify Playing
+### Pc Specs:
 
-![spotify-github-profile](/img/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
-
+- Cpu: Amd Ryzen 7 5700x
+- Mobo: Msi B550m Pro
+- SSD: 1tb m.2 4gen
+- SSD2: 512gb sata ssd
+- Gpu: Zotach Gaming Nvidia Geforce RTX 3060 12gb
+- Psu: Acer 650w 
+- Monitor: Dahua 22 inche 100hz
 
