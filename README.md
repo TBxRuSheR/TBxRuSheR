@@ -55,11 +55,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TBxRuSheR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TBxRuSheR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
+![GitHub stats1](https://github-readme-stats.vercel.app/api?username=ALFAMAS&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub stats2](https://github-profile-trophy.vercel.app/?username=ALFAMAS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![GitHub stats3](https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats4](https://github-readme-streak-stats.herokuapp.com/?user=ALFAMAS&theme=react&hide_border=false)
 
 ###
 
