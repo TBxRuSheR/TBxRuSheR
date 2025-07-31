@@ -41,6 +41,6 @@
 - Psu: Acer 650w 
 - Monitor: Dahua 22 inche 100hz
 
-[![Website]([https://imgur.com/QwaZUjg])(https://tanjim.freewebhostmost.com/)
+<img align="left" alt="React" width="26px" src="https://imgur.com/QwaZUjg" ink="https://tanjim.freewebhostmost.com/"/>
 
 
