@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently learning everything
 - 🥅 I try Contribute in Open Source Projects
-- 🌱 Fun fact: I love to Play GTAV RP and Valorant!
+- 🌱 Fun fact: I love to Play GTAV RP, Valorant, CS2 and Apex!
 <br />
 
 ### Languages and Tools:
@@ -31,5 +31,8 @@
 ![GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=TBxRuSheR&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub stats3](https://github-readme-streak-stats.herokuapp.com/?user=TBxRuSheR&theme=react&hide_border=false)
 
-<img src="https://camo.githubusercontent.com/f78d6a4f33cf75bf962fb1159d6278e3af05dfce113be61dd663c20802943e44/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" alt="rusher" width="100px" />
+### 🎧 Spotify Playing
+
+![spotify-github-profile](/img/default.svg)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
