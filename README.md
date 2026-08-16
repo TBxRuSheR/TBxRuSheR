@@ -7,6 +7,7 @@
 - ⚡ I’m currently learning everything
 - 🥅 I try Contribute in Open Source Projects
 - 🌱 Fun fact: I love to Play GTAV RP, Valorant, CS2 and Apex!
+- ⚡I love to do making Minecraft servers, Discord bots, Web Frontend Pages and also i do some Graphics Design Works
 <br />
 
 ### Languages and Tools:
