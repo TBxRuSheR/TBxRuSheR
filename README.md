@@ -45,17 +45,11 @@
 
 ###
 
-![GitHub stats1](https://github-readme-stats.vercel.app/api?username=TBxRuSheR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
-![GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs?username=TBxRuSheR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
-![GitHub stats4](https://github-profile-trophy.vercel.app?username=TBxRuSheR&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
+
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/3155kaqjimqgvi2unv74jqrzct4e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155kaqjimqgvi2unv74jqrzct4e&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
